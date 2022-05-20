@@ -1,0 +1,7 @@
+﻿  String.cpp
+C:\Users\Igor\Source\Repos\ThorukOOPDZ7\ThorukOOPDZ7\String.cpp(59,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukOOPDZ7\ThorukOOPDZ7\String.cpp(148,21): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+C:\Users\Igor\Source\Repos\ThorukOOPDZ7\ThorukOOPDZ7\main.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  ThorukOOPDZ7.vcxproj -> C:\Users\Igor\Source\Repos\ThorukOOPDZ7\Debug\ThorukOOPDZ7.exe

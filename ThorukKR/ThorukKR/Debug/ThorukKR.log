@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\Igor\Source\Repos\ThorukKR\ThorukKR\HRectangle.h(133,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukKR\ThorukKR\HRectangle.h(141,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukKR\ThorukKR\HRectangle.h(152,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukKR\ThorukKR\HRectangle.h(156,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukKR\ThorukKR\HRectangle.h(162,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukKR\ThorukKR\HRectangle.h(168,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukKR\ThorukKR\HRectangle.h(204,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukKR\ThorukKR\HRectangle.h(216,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukKR\ThorukKR\HRectangle.h(224,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukKR\ThorukKR\Main.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ThorukKR.vcxproj -> C:\Users\Igor\Source\Repos\ThorukKR\Debug\ThorukKR.exe

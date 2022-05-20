@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Igor\Source\Repos\ThorukOOP3\ThorukOOP3\Main.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ThorukOOP3.vcxproj -> C:\Users\Igor\Source\Repos\ThorukOOP3\Debug\ThorukOOP3.exe

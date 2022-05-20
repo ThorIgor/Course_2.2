@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Igor\Source\Repos\BellNumbers\BellNumbers\main.cpp(21,23): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\BellNumbers\BellNumbers\main.cpp(31,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  BellNumbers.vcxproj -> C:\Users\Igor\Source\Repos\BellNumbers\Debug\BellNumbers.exe

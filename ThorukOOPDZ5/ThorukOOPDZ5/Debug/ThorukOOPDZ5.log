@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Igor\Source\Repos\ThorukOOPDZ5\ThorukOOPDZ5\Main.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Igor\Source\Repos\ThorukOOPDZ5\ThorukOOPDZ5\Main.cpp(13,24): error C2678: бинарный "<<": не найден оператор, принимающий левый операнд типа "AComplex" (или приемлемое преобразование отсутствует)
+C:\Users\Igor\Source\Repos\ThorukOOPDZ5\ThorukOOPDZ5\TComplex.h(37,10): message : может быть "std::ostream &operator <<(std::ostream &,const TComplex &)"
+C:\Users\Igor\Source\Repos\ThorukOOPDZ5\ThorukOOPDZ5\AComplex.h(39,10): message : или       "std::ostream &operator <<(std::ostream &,const AComplex &)"
+C:\Users\Igor\Source\Repos\ThorukOOPDZ5\ThorukOOPDZ5\Main.cpp(13,24): message : при попытке сопоставить список аргументов "(AComplex, overloaded-function)"

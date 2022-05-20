@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Igor\Source\Repos\ThorukDZOOP9\ThorukDZOOP9\Main.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Igor\Source\Repos\ThorukDZOOP9\ThorukDZOOP9\Main.cpp(6,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukDZOOP9\ThorukDZOOP9\Array.h(46,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukDZOOP9\ThorukDZOOP9\Main.cpp(8): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::ostream &operator <<<5,double>(std::ostream &,const Array<5,double> &)"
+  ThorukDZOOP9.vcxproj -> C:\Users\Igor\Source\Repos\ThorukDZOOP9\Debug\ThorukDZOOP9.exe

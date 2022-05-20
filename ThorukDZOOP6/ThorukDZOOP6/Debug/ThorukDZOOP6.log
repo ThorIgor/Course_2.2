@@ -1,0 +1,5 @@
+﻿  Time.cpp
+  main.cpp
+C:\Users\Igor\Source\Repos\ThorukDZOOP6\ThorukDZOOP6\main.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  ThorukDZOOP6.vcxproj -> C:\Users\Igor\Source\Repos\ThorukDZOOP6\Debug\ThorukDZOOP6.exe

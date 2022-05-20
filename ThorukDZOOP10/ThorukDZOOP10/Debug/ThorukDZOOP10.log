@@ -1,0 +1,23 @@
+﻿  Main.cpp
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Main.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Sequence.h(52,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Sequence.h(51): message : во время компиляции функции-члена класс шаблон "bool Sequence<double>::contains(const Elem &)"
+          with
+          [
+              Elem=double
+          ]
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Main.cpp(11): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Sequence<double>::contains(const Elem &)"
+          with
+          [
+              Elem=double
+          ]
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Main.cpp(5): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Sequence<double>"
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Sequence.h(72,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Sequence.h(70): message : во время компиляции функции-члена класс шаблон "void Sequence<double>::enlarge(const size_t)"
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Sequence.h(80): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Sequence<double>::enlarge(const size_t)"
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Sequence.h(65,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Sequence.h(63): message : во время компиляции функции-члена класс шаблон "void Sequence<double>::reduce(const size_t)"
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Sequence.h(93): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Sequence<double>::reduce(const size_t)"
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Sequence.h(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Igor\Source\Repos\ThorukDZOOP10\ThorukDZOOP10\Main.cpp(12): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::ostream &operator <<<double>(std::ostream &,const Sequence<double> &)"
+  ThorukDZOOP10.vcxproj -> C:\Users\Igor\Source\Repos\ThorukDZOOP10\Debug\ThorukDZOOP10.exe
